@@ -1,5 +1,4 @@
 import Navbar from "./components/Navbar"
-import PortfolioPopupCard from "./components/PortfolioPopupCard"
 import AboutPage from "./pages/AboutPage"
 import Contact from "./pages/Contact"
 import Education from "./pages/Education"
